@@ -7,9 +7,11 @@
     padding: 30px;
     border: 10px solid darkgrey;
 }
+
 /* width = Total size */
 /* (300px -60 -20) */
 /* 220px +60px +20px */
+
 #box2{
     background-color: lightgray;
     width: 300px;
@@ -17,3 +19,4 @@
     border: 10px solid black;
     box-sizing: border-box;
 }
+ 
